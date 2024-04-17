@@ -2,6 +2,8 @@ interface BookI{
     id: number;
     title:string;
     author: string;
+    coAuthor?:string;
+    isLoad?:()=>void;
 }
 
 

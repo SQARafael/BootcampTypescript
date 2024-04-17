@@ -13,3 +13,4 @@ tBeisbol = [
     [2, 'Toros de Sincelejo'],
     [3, 'Tigres de Cartagena']
 ];
+//TODO Excepciones con Typescript  
